@@ -14,5 +14,5 @@ The via model is not a 3D solver. It is a fast physics-based model, compared wit
 ### Help make it right
 
 - **A result looks wrong?** Open an issue on [impedora/validation](https://github.com/impedora/validation/issues) with your inputs, the value you expected and where it comes from.
-- **Have measured S-parameters or a 3D simulation of a via or trace?** That is the most useful thing you can add. See [how to contribute data](https://github.com/impedora/validation/blob/main/CONTRIBUTING.md); contributors are credited.
+- **Have measured S-parameters or a 3D simulation of a via or trace?** That is the most useful thing you can add. See [how to contribute data](https://github.com/impedora/validation/blob/main/CONTRIBUTING.md).
 - Anything else: [contact@impedora.com](mailto:contact@impedora.com).
